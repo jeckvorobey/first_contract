@@ -14,5 +14,9 @@
     "@types/node": "^22.7.7",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "ton-core": "^0.53.0",
+    "ton-crypto": "^3.2.0"
   }
 }
